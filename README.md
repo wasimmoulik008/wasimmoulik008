@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm WASIM</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/loop-glitch-matrix-3og0ILLVvPp8d64Jd6">
-
-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981af70.gif">
-
+<h1 align="center">Hi 👋, I'm. WASIM BRO</h1>
+<h3 align="center">A programmer & Hacke Bangladesh</h3>
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif?cid=6c09b952r45hh8qbpqvibly66ayewkunzvbu10hm8gy6nipz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimmoulik008&label=Profile%20views&color=0e75b6&style=flat" alt="wasimmoulik008" /> </p>
 
-- 🔭 I’m currently working on [Programing](https://www.youtube.com/@wasim-360)
+- 🔭 I’m currently working on [Programing,termux](https://www.youtube.com/@wasim-360)
 
 - 👨‍💻 All of my projects are available at [https://mez.ink/bdwasim007](https://mez.ink/bdwasim007)
 
+- 📝 My Blogger Side [https://www.blogger.com/u/1/blog/posts/8621830139462420600?hl=en-GB&tab=jj](https://www.blogger.com/u/1/blog/posts/8621830139462420600?hl=en-GB&tab=jj)
+
 - 📫 How to reach me **wasimmoulik@gmail.com**
 
-- ⚡ Fun fact **I am fanny 😆**
+- ⚡ Fun fact **I am Not fanny👿**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
