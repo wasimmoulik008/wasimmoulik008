@@ -8,15 +8,12 @@
 
 - 👨‍💻 All of my projects are available at [https://mez.ink/bdwasim007](https://mez.ink/bdwasim007)
 
-- 📝 My Blogger Side [https://www.blogger.com/u/1/blog/posts/8621830139462420600?hl=en-GB&tab=jj](https://www.blogger.com/u/1/blog/posts/8621830139462420600?hl=en-GB&tab=jj)
+- 📝 My Blogger Side [https://www.blogger.com/u/1/blog/posts/8621830139462420600?hl=en-GB&tab=jj](https://www.blogger.com/u/1/blog/posts/8621830139462420600?hl=en-GB&tab
 
-- 📫 How to reach me **wasimmoulik@gmail.com**
-
-- ⚡ Fun fact **I am Not fanny👿**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/wasimmoulik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wasimmoulik" height="30" width="40" /></a>
+<a href="https://fb.com/teambothacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wasimmoulik" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/wasim-360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wasim-360" height="30" width="40" /></a>
 </p>
 
